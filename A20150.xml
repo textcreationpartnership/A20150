@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians care for the soules safety, or, The wofull losse of the soule compared with the vaine gaine of the world in a sermon lately preached by Iohn Denison ...</title>
+            <author>Denison, John, d. 1629.</author>
+         </titleStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20150</idno><idno type="EEBO-CITATION">22868933</idno>
+  <idno type="VID">25831</idno>
+  <idno type="EEBO-PROQUEST">2240927545</idno>
+  <idno type="STC">STC 6584.5</idno>
+  <idno type="STC">ESTC S1885</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A20150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25831)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1790:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians care for the soules safety, or, The wofull losse of the soule compared with the vaine gaine of the world in a sermon lately preached by Iohn Denison ...</title>
+                  <author>Denison, John, d. 1629.</author>
+               </titleStmt>
+               <extent>[6], 61 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Aug. Math. for Iohn Budge and are to be sold at his shop at the Greene Dragon in Paules Church-yarde,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁸(-A1) B-D⁸ E³.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Mark VIII, 36 --  Sermons.</term>
+               <term type="topical_term">Soul --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25831:1"/>
+            <pb facs="tcp:25831:1"/>
+            <p>THE CHRISTIANS CARE FOR THE SOVLES safety: <hi>OR,</hi> The wofull losse of the Soule Compared with <hi>The vaine gaine of the World.</hi>
+            </p>
+            <p>In a Sermon lately Preached by IOHN DENISON Doctor of Diuinity: <hi>And one of his Maiesties</hi> Chaplaines.</p>
+            <p>LONDON, Printed by <hi>Aug: Math:</hi> for <hi>Iohn Budge</hi> and are to be sold at his Shop at the <hi>Greene Dragon</hi> in <hi>Paules</hi> Church<g ref="char:EOLhyphen"/>yarde. 1621.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:25831:2"/>
+            <pb facs="tcp:25831:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hristian Rea<g ref="char:EOLhyphen"/>der, the impor<g ref="char:EOLhyphen"/>tunitie of some worthy friends, hauing preuailed with mee for copies of this Sermon, their iudgements for the use of it haue made it pub<g ref="char:EOLhyphen"/>lique. The subiect indeede is large, but my time alot<g ref="char:EOLhyphen"/>ted for deliuery was short
+<pb facs="tcp:25831:3"/>according to which J was to contriue and contract my Meditations. For what is the allowance of an howre, to speake of whatsoeuer is vnder the Sunne?</p>
+            <p>Yet as a few clusters of <hi>grapes,</hi>
+               <note place="margin">Num. 13.25.28.</note> were sufficient to shew by implication the de<g ref="char:EOLhyphen"/>solate condition of the wil<g ref="char:EOLhyphen"/>dernesse and to demonstrate the riches of Canaan: so these fewe <hi>Lines</hi> may in some measure discouer the vanitie of this present life, and manifest the excellency
+<pb facs="tcp:25831:3"/>of the soule; and consequent<g ref="char:EOLhyphen"/>ly what great care is to bee had and what good courses to be taken for the preser<g ref="char:EOLhyphen"/>uation of the same. This is that <hi>Vnum necessarium,</hi>
+               <note place="margin">Luke 10.42</note> that one thing which is need<g ref="char:EOLhyphen"/>full; Which if a man ne<g ref="char:EOLhyphen"/>glect,
+<note place="margin">Sap. 2.8.</note> though Hee crowne himselfe with Roses, &amp; inioy the confluence of all earthly contents, yet is he misera<g ref="char:EOLhyphen"/>ble and his case lamentable. Jt were good for him if hee had neuer bene borne: Or,
+<note place="margin">Matt. 26.24</note> like the contemptible crea<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:25831:4"/>had a Life onely in stead of salt to preuent pu<g ref="char:EOLhyphen"/>trifaction.
+<note place="margin">Animum pro sale datum. Cicer <hi>of the Hogg.</hi> de finib. bon. lib. 5.</note> If these briefe meditations shal adde some<g ref="char:EOLhyphen"/>what to thy Christian care, it is what I desire of God, to whose good blessing com<g ref="char:EOLhyphen"/>mending both them and thy selfe, I rest</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord,</hi> I. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:25831:4"/>
+            <head>The Christians care <hi>for the Soules safety.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MARKE 8.36.</hi>
+                  </bibl>
+                  <p>For what shall it profit a man though hee should winne the whole world, if hee loose his owne soule.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="part">
+               <p>
+                  <seg rend="decorInit">T</seg>HE Apostle <hi>Peter,</hi> who vpon his wor<g ref="char:EOLhyphen"/>thy Confession, <hi>Thou art Christ the Sonne of the liuing God,</hi> heard that benediction; <hi>Bles<g ref="char:EOLhyphen"/>sed art thou the sonne of Ionas:</hi> Vpon
+<pb n="2" facs="tcp:25831:5"/>his inconsiderat diswasion, <hi>Be it farre from thee Lord, it shall not be so to thee,</hi> heard also that sharpe reprehension, <hi>Goe behind me Satan.</hi> Thus as good Lawes doe arise out of mens euill manners: So vpon <hi>Peters</hi> frailtie our Sauiour takes occasion to deliuer this Caueat, <hi>If any one will be my Di<g ref="char:EOLhyphen"/>sciple, let him take vp his Crosse and fol<g ref="char:EOLhyphen"/>low me.</hi> Now because this might seeme too bitter a pill to the weake stomakes of the Disciples, he shewes in the next words how dangerous it is to neglect the taking thereof. For, <hi>Whosoeuer will seeke</hi> by shunning the Crosse <hi>to saue</hi> his naturall <hi>life, shall lose</hi> eternall <hi>life;</hi> the folly and mise<g ref="char:EOLhyphen"/>ry whereof hee propounds in these words. <hi>For what shall it profit a man to gaine the whole world, and to lose his Soule?</hi>
+               </p>
+               <p>In handling of which words I purpose, God willing, to obserue,
+<list>
+                     <item>1 The manner</item>
+                     <item>2 The matter</item>
+                  </list> of the speech.</p>
+               <pb n="3" facs="tcp:25831:5"/>
+               <p> For the maner, it is by way of In<g ref="char:EOLhyphen"/>terrogation: and for the matter, it is by way of Comparison, setting forth the transcendent excellency of the soule aboue the whole world, and consequently the correspondent care to be had for preseruation of it.</p>
+               <p>First, of the manner of the speech.</p>
+               <p>In Interrogations we are to consi<g ref="char:EOLhyphen"/>der the nature and vse of them.</p>
+               <p>For their nature, they are com<g ref="char:EOLhyphen"/>monly either vehement affirmations, or Negations.</p>
+               <p>Affirmations,
+<note place="margin">Act. 26.27.</note> as in that speech of <hi>Paul</hi> to <hi>Agrippa, O King</hi> Agrippa <hi>be<g ref="char:EOLhyphen"/>leeuest thou the Prophets?</hi> For the Apo<g ref="char:EOLhyphen"/>stle himselfe maks answer. <hi>I know that thou beleeuest.</hi> Negations,
+<note place="margin">Rom. 6.1.</note> as in that to the <hi>Romans, Shall we continue in sin that grace may abound?</hi> For Saint <hi>Paul</hi> also answers with vehemency, <hi>God forbid.</hi> And such is the interrogation in this place. When <hi>Dauid</hi> saith in the 130.
+<note place="margin">Psal. 130.3. Psal. 130.</note> Psalme, <hi>If thou Lord shouldest marke iniquities! O Lord who shall stand?
+<pb n="4" facs="tcp:25831:6"/>Chrysostome</hi> saith thereupon, <hi>Vtique ille millus est</hi> surely, that <hi>who is no body at all:</hi> And so may I say of our Saui<g ref="char:EOLhyphen"/>ours words, <hi>What should it profit a man though he should win the whole world, if he loose his soule? Vtique illud quid ni hil est,</hi> surely that <hi>what is nothing at all.</hi> It shall bee to him no true gaine, but a most lamentable losse.</p>
+               <p>The vse of Interrogations is to presse some matters of waight or dif<g ref="char:EOLhyphen"/>ficulty vpon the heart and conscience of the hearer. And what thing is there of more waight then the soule? What more difficult then to win the affections of a carnall man from the loue of the world? Therefore this Interrogation chargeth the wordes strongly, that they may make a batte<g ref="char:EOLhyphen"/>ry in the heart of a worldling.</p>
+               <p>And indeed Interrogations are ex<g ref="char:EOLhyphen"/>cellent to informe the iudgement, to continue the conscience, and to con<g ref="char:EOLhyphen"/>firme the memory.</p>
+               <p>To informe the iudgement: for
+<pb n="5" facs="tcp:25831:6"/>they stirre vp the vnderstanding to conceiue, and seriously to consider what is spoken.</p>
+               <p>Therefore,
+<note place="margin">Genes. 3.9.</note> whereas Almighty God cals to <hi>Adam, Where art thou? Hast thou eaten of the Tree,</hi>
+                  <note place="margin">
+                     <hi>Chrysost. in Gen. Hom.</hi> 17.</note>
+                  <hi>which I for<g ref="char:EOLhyphen"/>bad thee?</hi> Saint <hi>Chrysostom</hi> calles this <hi>Benignam interrogationem,</hi> a gratious interrogation, by which God speakes in effect to <hi>Adam,</hi>
+                  <note place="margin">Reuel. 2.5.</note> as Christ to the Church of <hi>Ephesus, Consider whence thou art fallen.</hi>
+               </p>
+               <p>Againe, they are powerfull to con<g ref="char:EOLhyphen"/>vince the conscience.
+<note place="margin">Deut. 10.12.</note> Therefore <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> speakes thus to the children of I<g ref="char:EOLhyphen"/>srael. <hi>And now O Israel, what doth the Lord thy God require of thee? but to feare the Lord thy God, to walke in his wayes, to loue and serue him?</hi> Wherein hee apples to their consciences, that their hearts may giue an echo, whe<g ref="char:EOLhyphen"/>ther Gods abundant fauours may not iustly challenge an exact obedience; as if he should say with the Prophet <hi>Isaiah,</hi>
+                  <note place="margin">Esay <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note>
+                  <hi>Thou man of Iuda, &amp; thou inhabi<g ref="char:EOLhyphen"/>tant
+<pb n="6" facs="tcp:25831:7"/>of Ierusalem, iudge I pray you be<g ref="char:EOLhyphen"/>tweene me and my Vineyard.</hi>
+               </p>
+               <p>Againe, they are excellent to con<g ref="char:EOLhyphen"/>firme the memory.
+<note place="margin">Eccles. 12.11.</note>
+                  <hi>The words of the wise,</hi> saith <hi>Salomon, are like goades and nayles;</hi> they are like goades in pier<g ref="char:EOLhyphen"/>cing, and like nayles in fastening in<g ref="char:EOLhyphen"/>structions in the hearts of the hea<g ref="char:EOLhyphen"/>rers. And such is the forme of our Sa<g ref="char:EOLhyphen"/>uiours speech: his interrogation is like a threed, whereby the Iewels of holy directions are tyed, lest the me<g ref="char:EOLhyphen"/>mory of the hearer, becoming like a leaking vessell, the same should bee lost.</p>
+               <p>And here behold the great Doctor, Christ Iesus, hath taught vs how to teach; that is, to take the best courses for pressing of our Doctrines vppon the soules and consciences of the hea<g ref="char:EOLhyphen"/>rers, not regarding so much to speake to a curious eare, as to a religious heart. <hi>To whet and sharpen them</hi> (as <hi>Moses</hi> speakes,
+<note place="margin">Deut. 6.7. Act. 2.37.</note>) that they may pierce the hearts of our hearers, as <hi>Peter</hi> did
+<pb n="7" facs="tcp:25831:7"/>the hearts of his happy conuerts. I doe not like those indigested medita<g ref="char:EOLhyphen"/>tions of meere talking and Tautologi<g ref="char:EOLhyphen"/>zing preachers. I wish euery one to bee like a rich Marchant, and a good householder, that <hi>brings out of his stocke and storehouse</hi> things new and old; and I say with <hi>Chrysostome:</hi>
+                  <note place="margin">
+                     <hi>Ne mihi propo<g ref="char:EOLhyphen"/>nus illum qui sine affectu phi<g ref="char:EOLhyphen"/>losophatur, Chrys. ad pop. Antioch. hom.</hi> 70.</note> though I regard not ydle affectation: yet I care not much for him that preaches without feeling and affecti<g ref="char:EOLhyphen"/>on. What is a Rhetoricall florish without substance, but a tinkling cymball? and what is a materiall dis<g ref="char:EOLhyphen"/>course without forme, but a sword without a point? wee must therefore charge the Canons of our holy di<g ref="char:EOLhyphen"/>rections both with powder and shot, I meane with matters and forme, (in waighty cases especially), that <hi>they may cast downe the strong holds of time,</hi> and cause the hearer to fall downe on his face, <hi>and worship God,</hi> and say, <hi>surely God is in these men.</hi>
+               </p>
+               <p>And here againe is vse of our Saui<g ref="char:EOLhyphen"/>ours
+<pb n="8" facs="tcp:25831:8"/>exhortation,
+<note place="margin">Luke <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.18.</note>
+                  <hi>Take heede how you heare;</hi> for if Christ hath beene care<g ref="char:EOLhyphen"/>full to speake effectuall, should not wee bee as carefull to hearken dili<g ref="char:EOLhyphen"/>gently? Wee must not bee like the houreglasse, which hath the sand run<g ref="char:EOLhyphen"/>ning from one end to another. What we heare should not goe in at one eare, and out at another; neither should our hearts be like the anvile in beating backe the hammer of exhor<g ref="char:EOLhyphen"/>tation.
+<note place="margin">Ier. 23.29.</note> But as <hi>Moses</hi> said of the bur<g ref="char:EOLhyphen"/>ning bush, <hi>I will turne aside and see this great sight:</hi>
+                  <note place="margin">Exod 33<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> So must wee retire our thoughts diligently: ponder and con<g ref="char:EOLhyphen"/>sider seriously, what is spoken, per<g ref="char:EOLhyphen"/>swading our selues, that when mat<g ref="char:EOLhyphen"/>ters of waight are thus vehemently vrged, the Lord would haue vs enter<g ref="char:EOLhyphen"/>taine them with our best attention, and lay them vp carefully in our hearts, as the blessed Virgine did the words of our Sauiour for our salua<g ref="char:EOLhyphen"/>tion.
+<note place="margin">Luke 2.57.</note>
+               </p>
+               <p>Thus haue I made the manner of
+<pb facs="tcp:25831:8"/>
+                  <pb facs="tcp:25831:9"/>
+                  <pb n="9" facs="tcp:25831:9"/>Christs speech, the gate into the Ci<g ref="char:EOLhyphen"/>ty, the doore into the matter of my Text: that it may be as a preparatiue to stirre vp your hearts to a diligent consideration of these two mayne points.</p>
+               <list>
+                  <item>1. The vanity of the world.</item>
+                  <item>2. The excellency of the soule.</item>
+               </list>
+               <p>Of which I purpose to speake in order; and from them to deduce this conclusion: <hi>It is extreame misery and folly, euen for the gaine of the whole world, to lose the soule.</hi>
+               </p>
+               <p>And as in commerce and commu<g ref="char:EOLhyphen"/>tation men will consider seriously, &amp; seuerally the worth of those things which are to passe in traffique, by buying or exchanging: so must we doe in this case, except wee will sit downe by the losse.</p>
+               <p>The world in Scripture is diuersly taken; there is <hi>fex mundi,</hi>
+                  <note place="margin">Iohn 17. 1. Ioh. 2.2. Math. 24.21. Math. 18.7.</note> and <hi>flos mundi:</hi> a world of reprobates, and a world of the Elect. There is a world contayning, and a world contained.
+<pb n="10" facs="tcp:25831:10"/>But in this place it is with the largest extent.</p>
+               <p>For here is both <hi>Haec fabrica quam videmus,</hi> euen all that goodly fabrike which we behold,
+<note place="margin">August. in Psal. 34.</note> as Saint <hi>Austine</hi> calles the world; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, all that is in the world,
+<note place="margin">1. Ioh. 2.16.</note> as Saint <hi>Iohn</hi> speakes.</p>
+               <p>If I could set before your eyes all the world as it were in one Sunne<g ref="char:EOLhyphen"/>beeame,
+<note place="margin">It is said he saw all the world, <hi>veluti subvno solis radio. Greg. dialog. lib.</hi> 2. <hi>cap.</hi> 31.</note> as it is in that fabulous Dia<g ref="char:EOLhyphen"/>logue concerning <hi>Benedict;</hi> If I could shew you in a moment, as Sa<g ref="char:EOLhyphen"/>than did our Sauiour, euen <hi>all the Kingdomes of the earth,</hi>
+                  <note place="margin">Math. 4.8.</note>
+                  <hi>and the glory of them,</hi> as it is in the sacred story; Whatsoeuer is resyding vpon the ponderous center, whatsoeuer is in<g ref="char:EOLhyphen"/>cluded within the cōpasse of the vast circumference;
+<note place="margin">The whole world.</note> this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth comprehend it. Cōcerning all which <hi>Salomon,</hi> forth of his great wisedome and experience, hath giuen this briefe censure;
+<note place="margin">Ecclesa.</note>
+                  <hi>Behold all is vanity and vex<g ref="char:EOLhyphen"/>ation of Spirit.</hi>
+               </p>
+               <pb n="11" facs="tcp:25831:10"/>
+               <p> And so must I, in viewing the vani<g ref="char:EOLhyphen"/>ties of the world,
+<note place="margin">Phil. Jud. de mundi fabric.</note> as <hi>Philo Iudaeas</hi> speakes, contriue a great picture in a litle ring, close vp a great building in a small modell, and set foorth the whole world in a litle Mappe. I may say of the worlds vanities, as Saint <hi>Ambrose</hi> speakes of <hi>Iudithes</hi> vertues,
+<note place="margin">Prolixum est e<g ref="char:EOLhyphen"/>numerare omnes cognoscite ali<g ref="char:EOLhyphen"/>quas. Amb. de viduis.</note>
+                  <hi>It were a tedious taske to recken vp all;</hi> consider some few of them.</p>
+               <p>And first, all things in the world are vaine, in respect of vse without a diuine blessing vpon them. They can neither giue health to the body, nor grace to the soule. The perfu<g ref="char:EOLhyphen"/>med robe cannot preuent the infected ayer, the noble Garter cannot cure the yrksome Gout, the imperiall Crowne cannot helpe the painefull head-ach, the chayre of estate cannot keepe out cares and feares, the awfull Sword and Scepter cannot keepe off Gods dreadfull iudgements. Though <hi>Pharaoh</hi> would haue resigned his Crowne and Kingdome, hee could
+<pb n="12" facs="tcp:25831:11"/>not keepe the frogges from his cham<g ref="char:EOLhyphen"/>bers,
+<note place="margin">Exod. 9.10.</note> the blood from the waters, the borches from the body, nor obstinancy from his soule. The rich mans great possessions and full barnes could not redeeme his life,
+<note place="margin">Luke 12.20.</note> nor bale him for one night. All <hi>Diues</hi> wealth could not purchase one droppe of water to coole his tongue.
+<note place="margin">Luke 16.24.</note>
+               </p>
+               <p>The whole world if it were at a mans disposing, could not giue him Faith, Repentance, the guift of pray<g ref="char:EOLhyphen"/>er, or the least degree of grace; nor obtaine him pardon euen for the least sinne that euer he committed.</p>
+               <p>Such goods,
+<note place="margin">
+                     <hi>Talibus bonis non siunt homi<g ref="char:EOLhyphen"/>nes boni August.</hi> Epist. 121.</note> saith Saint <hi>Austine,</hi> cannot make men good. If all hu<g ref="char:EOLhyphen"/>mane excellency might meete toge<g ref="char:EOLhyphen"/>ther in one person, as it were so many Sunne-beames in one center, yet be<g ref="char:EOLhyphen"/>hold all were vanity.
+<note place="margin">Esay 40.6.</note>
+                  <hi>All flesh is grasse, and the glory thereof as the flower of the field.</hi>
+               </p>
+               <p>Againe, as they are vaine for vse,
+<pb n="13" facs="tcp:25831:11"/>so are they fraile for substance.
+<note place="margin">
+                     <hi>Chrys-in Rom. hom</hi> 20. 1 Cor. 7.31. <hi>Tertul Cont. Marc.</hi> 1.13.</note> The world is <hi>Persona quaedam scenica,</hi> and the fashion of it <hi>passeth away.</hi> Diuers Philosophers, saith <hi>Tertullian,</hi> were loath to ascribe a beginning to the world, because that would necessari<g ref="char:EOLhyphen"/>ly inferre an ending,
+<note place="margin">Philo. de decem praecept.</note> (for <hi>ortus is principium interitus;</hi>) But wee by Faith doe knowe the infancy of the world,
+<note place="margin">Heb. 11.3.</note> and behold by experience her declining estate. And as it was once nothing but a <hi>toha</hi> and <hi>bohu,</hi>
+                  <note place="margin">Gen. 1.2:</note> e<g ref="char:EOLhyphen"/>uen a confused <hi>Chaos:</hi> So some shall liue to see the day of her totall disso<g ref="char:EOLhyphen"/>lution.
+<note place="margin">2. Pet. 3.10.</note> For <hi>the heauens must passe away with a noyse, and the elements melt with heate, the earth and the workes therein shall be burned vp.</hi>
+                  <note place="margin">
+                     <hi>Greg. in Euang. Hom.</hi> 4.</note> Therefore <hi>Gregory</hi> saith truly, <hi>mundi voces ruinae,</hi> though the word of God were silent, the world proclaimes her owne ruyne. Aud if the world might alwaies re<g ref="char:EOLhyphen"/>maine; yet experience doeth mani<g ref="char:EOLhyphen"/>fest, that we cannot alwayes remaine in the world:
+<note place="margin">Eccl. 1.4.</note> for <hi>one generation pas<g ref="char:EOLhyphen"/>seth,
+<pb n="14" facs="tcp:25831:12"/>and another commeth, like the eb<g ref="char:EOLhyphen"/>bing and flowing of the waters.</hi> Though some bee like the <hi>head of gold,</hi> some like the <hi>brest of siluer,</hi> and others like the <hi>thighes of brasse,</hi>
+                  <note place="margin">Dan. 2.45.</note> in <hi>Daniels</hi> Image, yet death is a stone cut out of the mountaine of mans transgressions, that dasheth all to pieces. Though men shine in glory like starres in the firmament, yet is it but for a while; they must in time vanish like comets. Scarce any of vs but haue liued to see the setting of three the most glori<g ref="char:EOLhyphen"/>ous starres that euer shined in our Hemisphere. Queene <hi>Elizabeth</hi> the Phenix of her sex, Prince <hi>Henry</hi> the mirror of his age, and the late graci<g ref="char:EOLhyphen"/>ous Queene <hi>Anne.</hi> Neither could Crownes, or Kingdomes, ransom or rescue them from the hand of the graue.</p>
+               <q>
+                  <p>
+                     <hi>Sic transit gloria mundi.</hi>
+                  </p>
+               </q>
+               <p>Againe, as they are fraile for sub<g ref="char:EOLhyphen"/>stance, so are they inconstant for con<g ref="char:EOLhyphen"/>tinuance. They wax and wane like the
+<pb n="15" facs="tcp:25831:12"/>Moone, they ebbe and flow like the Sea, so saith <hi>Nazianzen,</hi>
+                  <note place="margin">
+                     <hi>Nazianz. Orat.</hi> 23.</note>
+                  <hi>Haec vniuer<g ref="char:EOLhyphen"/>sitas fluctuat.</hi> And therefore hee fitly calles the world an impostor. If any thing seeme more excellent then o<g ref="char:EOLhyphen"/>ther:
+<note place="margin">Decursus hono<g ref="char:EOLhyphen"/>rum.</note> it is the course and confluence of honours &amp; aduancement. Yet haue wee seene the Moone of great mens honours beene ecclipsed at the full, and the Sunne of their pompe goe downe at noone: as <hi>Amos</hi> speakes.
+<note place="margin">Amos 8.9.</note> Are not men <hi>ambitious</hi> of honours well compared to climers of <hi>Nut-trees,</hi> some breaking their neckes with climing, others their teeth with cracking the nuttes; how haue wee seene some followed with <hi>Hosannaes,</hi> and not long after pursued with <hi>Cru<g ref="char:EOLhyphen"/>cifiges,</hi>
+                  <note place="margin">Hest. 3.1.7.10.</note> that haue triumpht with <hi>Ha<g ref="char:EOLhyphen"/>man,</hi> that great Courtier, and haue af<g ref="char:EOLhyphen"/>terwards had cause to feare <hi>Hamans</hi> doome:
+<note place="margin">Dan. 5.4.</note> Euen when <hi>Baltasar</hi> in his greatest iollity was quaffing and ca<g ref="char:EOLhyphen"/>rowsing healths in the sacred vessels: Deaths Secretary, the hand writing
+<pb n="16" facs="tcp:25831:13"/>on the wall, told him <hi>he was waighed in the ballance, and his Kingdome was fi<g ref="char:EOLhyphen"/>nished.</hi>
+               </p>
+               <p>When <hi>Alexander</hi> in the height of his glory kept (as the History saith) <hi>conuentum terrarum orbis,</hi> a Parlia<g ref="char:EOLunhyphen"/>ment of the whole world, himselfe was summoned by death to appeare in another world. <hi>Erat res spectaculo digna,</hi>
+                  <note place="margin">
+                     <hi>Iustin. lib.</hi> 2.</note> saith <hi>Iustin,</hi> It was a wonderfull precedent of the vanity and varie<g ref="char:EOLhyphen"/>ty of humane condition, to see migh<g ref="char:EOLhyphen"/>ty <hi>Zerxes</hi> flote and fly away in small vessell, who before wanted Sea<g ref="char:EOLhyphen"/>roome for his shippes. But if euer there were a liuely spectacle of the worlds vanitie and misery,
+<note place="margin">2. Kings 25.</note> it was <hi>Ze<g ref="char:EOLhyphen"/>dekiah,</hi> who of a potent King became a miserable captiue: saw his children slaine before his face, after that had his eyes put out, and dyed miserably in prison.</p>
+               <p>Againe, as they are inconstant for continuance,
+<note place="margin">
+                     <hi>Hieron in Vab.</hi> 3.</note> so are they in possession without content, <hi>Quod placiut displi<g ref="char:EOLhyphen"/>cet,</hi>
+                  <pb n="17" facs="tcp:25831:13"/>that pleaseth vs to day like a fresh nosegay, to morrow doth displease vs as withered flowers; The rich man is as much troubled with his aboun<g ref="char:EOLhyphen"/>dance, as the poore man with his pit<g ref="char:EOLhyphen"/>tance.
+<note place="margin">Luk. 12.17.</note>
+                  <hi>What shall I doe</hi> saith the rich man; and what greater straite can the poore man bee brought into by his pouerty? The <hi>Lacedemonians,</hi>
+                  <note place="margin">According to the disposition of man. <hi>Iust. lib.</hi> 6.</note> more <hi>humani ingenij</hi> saith the Histori<g ref="char:EOLhyphen"/>an, hauing got <hi>Athens,</hi> are not con<g ref="char:EOLhyphen"/>tent, except they be Lords of all <hi>Asia.</hi> When <hi>Pyrhus</hi> hath sacked <hi>Rome,</hi>
+                  <note place="margin">Plutarch. in vis. Pyrrhi.</note> hee will subdue all <hi>Italy;</hi> when <hi>Italy</hi> is sub<g ref="char:EOLhyphen"/>dued, he will conquer <hi>Carthage;</hi> when <hi>Carthage</hi> is conquered, he will set vp<g ref="char:EOLhyphen"/>on <hi>Macedonia;</hi> and will neuer rest so long as a stone remaines to bee row<g ref="char:EOLhyphen"/>led. The heart of a man is little in quantity, but large in desire. Though you fill the hands, the chestes, the house: yet is the heart hardly satis<g ref="char:EOLhyphen"/>fied.</p>
+               <p>The whole circular world cannot fill the triangular heart of man.</p>
+               <pb n="18" facs="tcp:25831:14"/>
+               <p> Lastly, as the world is insufficient for content, so is it dangerous in frui<g ref="char:EOLhyphen"/>tion, and oftentimes becomes a snare to the soule of the carelesse.</p>
+               <p>The world is Sathans factor,
+<note place="margin">
+                     <hi>Lequeos a dex<g ref="char:EOLhyphen"/>triset a sinistris, Bernard. Chrys. op. impers. Hom.</hi> 39.</note> and hath snares on both hands. It is fitly compared by the ancient to the brac<g ref="char:EOLhyphen"/>kish sea, wherein are rockes of Pride, shelues of Presumption, gulfes of de<g ref="char:EOLhyphen"/>spaire, tempests of Vanitie, pirates of iniquitie, sent out by Sathan with Pi<g ref="char:EOLhyphen"/>naces of infinite temptations. It is indeede the pandor of vice. It stirred vp <hi>Balaam</hi> to curse the Israelits;
+<note place="margin">Numb. 23.</note> made <hi>Demetrius</hi> an Orator for Idolatry,
+<note place="margin">Act. 19.26.</note> inticed <hi>Iudas</hi> to become a traytor:
+<note place="margin">Math. 27.15.</note> and as it is the pandor of vice, so is it the burre and bane of grace. The Farme,
+<note place="margin">Math. 22. Luk. 14.</note> the Marriage, the Merchan<g ref="char:EOLhyphen"/>dise, keepe men from the heauenly banquet.</p>
+               <p>And are the things of this world so vaine in vse, so fraile in substance, so inconstant for continuance, so in<g ref="char:EOLhyphen"/>sufficient for content, so dangerous in fruition?</p>
+               <pb n="19" facs="tcp:25831:14"/>
+               <p> The due meditation of this may cause vs to hearken to Saint <hi>Iohns</hi> de<g ref="char:EOLhyphen"/>hortation; <hi>Loue not the world,</hi>
+                  <note place="margin">1. Ioh. 2.15.</note>
+                  <hi>neither the things of the world.</hi> It may bee a good meanes to waine our affections from such fading vanities, and to set<g ref="char:EOLhyphen"/>tle them vpon the soules felicitie. As <hi>Themistocles</hi> father,
+<note place="margin">Plutarch. in vit. Themist.</note> to withdraw him from ambitious aspyring, had him a<g ref="char:EOLhyphen"/>long the shore, and shewed him the racke of old Gallies; therein demon<g ref="char:EOLhyphen"/>strating the state of men in eminent place: so haue the Scriptures shewed, and experience manifested these va<g ref="char:EOLhyphen"/>nities and miseries, to withdraw our affections from the loue of the world, and to fix them vpon the care of the soule. For the care and loue of the world and of the soule, in an ex<g ref="char:EOLhyphen"/>treame degree are so opposite, that they cannot stand together; as it is in nature, so it is in grace: <hi>Generatio vni<g ref="char:EOLhyphen"/>us est corruptie alterius.</hi> The more care wee haue of the world, the lesse wee haue of the soule. When <hi>Demas</hi> im<g ref="char:EOLhyphen"/>braces
+<pb n="20" facs="tcp:25831:15"/>the world he leaues the Apo<g ref="char:EOLhyphen"/>stles;
+<note place="margin">2. Tim. 4.9.</note> but when <hi>Paul</hi> cleaues con<g ref="char:EOLhyphen"/>stantly to Christ,
+<note place="margin">Phil. 3.8.</note> he counts all dung and losse in comparison of him. Ther<g ref="char:EOLhyphen"/>fore as the <hi>woman</hi> in the twelfth of the Reuelation,
+<note place="margin">Reuel. 12 1.</note>
+                  <hi>being cloathed with the Sunue, tramples the Moone vnder her feete:</hi> So must wee, (if wee haue put on <hi>Christ the Sun of righteousnes,</hi>
+                  <note place="margin">Mal. 4.2.</note>) trample all sublunary things vnder the feete of our affections. Like the three children in the third of <hi>Daniel, Who</hi> (saith <hi>Chrysostom) by the wings of Faith had their hearts so eleuated,</hi>
+                  <note place="margin">Chry hom, quod nemo leditur nisia se.</note>
+                  <hi>that they esteemed the Kings Court, Veluti ergastisqualorem:</hi> euen as a loathsome prison.</p>
+               <p>Now for the better moderating of our affections, these meditations will be helpefull.</p>
+               <p>First,
+<note place="margin">Luk. 12.15.</note> let vs consider, that <hi>no mans life stands in aboundance.</hi> That nature is content with litle, grace with lesse. Though a great Kingdome cannot content <hi>Philip</hi> of <hi>Macedon</hi> in the
+<pb n="21" facs="tcp:25831:15"/>time of his life:
+<note place="margin">
+                     <hi>Exigua terre portio Plut Moral. de ex<g ref="char:EOLhyphen"/>sulio. Platina in vita Ceustun.</hi> 3.</note> yet a small portion of ground will suffice him at the day of his death. Though three kingdomes seeme not enough for great <hi>Saladine</hi> whilest hee is aliue; yet when hee is dead his winding sheete is all that he carries with him.</p>
+               <p>Againe, let vs consider that our liues are short and vncertaine.
+<note place="margin">
+                     <hi>Chry. de Laz. Con.</hi> 2.</note> Wee are, saith <hi>Chrysostom,</hi> like actors on a stage; when the euening is come, and the stage dismissed, the King and the Captaine lay by their personated parts: and so when the Comedy or Tragedy of our life is ended, all worldly ornaments and honours are then remoued.</p>
+               <p>
+                  <hi>Then the rich and the poore meete to<g ref="char:EOLhyphen"/>gether,</hi> as <hi>Salomon</hi> saith.
+<note place="margin">Prou. 22.2.</note> They meete in the graue, and there poore <hi>Codrus</hi> is as rich as pompous <hi>Craessus.</hi> There<g ref="char:EOLhyphen"/>fore as <hi>Plutarch</hi> saith of <hi>Demosthenes, Spiritus angustia, &amp;c.</hi>
+                  <note place="margin">Plutar. in vita Demosth.</note>
+                  <hi>His short breath and long periods did not well agree:</hi> So <hi>Gregory</hi> sayes well,
+<note place="margin">
+                     <hi>Greg. in Euang. Hom.</hi> 32.</note>
+                  <hi>Longa nostra deside<g ref="char:EOLhyphen"/>ria
+<pb n="22" facs="tcp:25831:16"/>increpat vita brevis.</hi> Our short liues may very wel check and abridge our immoderat desires.</p>
+               <p>Againe,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> let vs consider that the eye of our all-sufficient God is still watching ouer vs.
+<note place="margin">Math. 6.32.</note>
+                  <hi>Your heauenly Fa<g ref="char:EOLhyphen"/>ther knoweth what you neede,</hi> saith Christ. He can cause all the creatures to haue care of vs, as wee see in the case of <hi>Elias.</hi> The Rauens, which by name &amp; nature are rauenous,
+<note place="margin">1. Reg. 17.6.</note>
+                  <hi>brought him bread &amp; flesh both morning and eue<g ref="char:EOLhyphen"/>ning.</hi>
+                  <note place="margin">Vers. 10.</note> The widow, which lacked re<g ref="char:EOLhyphen"/>liefe for her self, did furnish him with <hi>meale &amp; oyle.</hi> The Angell of God pre<g ref="char:EOLhyphen"/>sented him with a cake,
+<note place="margin">1. Reg. 19.6.</note> and a cruse of water.</p>
+               <p>Thus the ayer, the earth, the hea<g ref="char:EOLhyphen"/>uens, by Gods appointment and pro<g ref="char:EOLhyphen"/>uidence, shall bee rich storehouses, and yeelde plentifull supplies to his seruants; this meditation did establish <hi>Moses</hi> heart: though the Israelites murmured vpon euery want, <hi>Moses</hi> was neuer dismayed so long as hee
+<pb n="23" facs="tcp:25831:16"/>wanted not a God. And so let it esta<g ref="char:EOLhyphen"/>blish ours, least wee heare that iust re<g ref="char:EOLhyphen"/>proofe, <hi>O you of little Faith,</hi>
+                  <note place="margin">Math. 14.31.</note>
+                  <hi>wherefore doe you doubt?</hi>
+               </p>
+               <p>But what must we cast off all care concerning earthly things? Nothing lesse.</p>
+               <p>But first, wee must proportion our cares for our soules and the world, as <hi>Noah</hi> did the creatures for the Arke,
+<note place="margin">Genes. 7.2.</note> he <hi>brought in of cleane beasts by seuens, of vncleane by couples.</hi> So must our care for our soules surmount our care for the world by many degrees.</p>
+               <p>Secondly,
+<note place="margin">Math. 6.25.</note> this care of ours for worldly things must not be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a distracting of our mindes in them<g ref="char:EOLhyphen"/>selues, or from God: we must enter<g ref="char:EOLhyphen"/>taine therefore the Apostles directi<g ref="char:EOLhyphen"/>on, <hi>in vsing the things of this life,</hi>
+                  <note place="margin">1. Cor 7.31.</note>
+                  <hi>as if we vsed them not.</hi>
+               </p>
+               <p>Thirdly, in our care for worldly things, wee must haue an especiall care to keep our soules from the spots and snares of the world;
+<note place="margin">Iam. 1.27.</note> like the fish
+<pb n="24" facs="tcp:25831:17"/>that keepe freesh in the brackish seas. A seruant, whilest a stranger walkes with his maister, will follow them both; but when the stranger departs from his maister, hee will leaue the stranger, &amp; follow his maister. Whilst the world doth any way concur with the Lord, and conduce to the saluati<g ref="char:EOLhyphen"/>on of the soule, so far we may accom<g ref="char:EOLhyphen"/>pany it: but if it once depart from that then let vs giue the world a farewell, follow the Lord, and haue care of our soules.</p>
+               <p>Fourthly, we must imitate the skil<g ref="char:EOLhyphen"/>full Physitians, who make soueraigne mythridates of the venemous Viper. As Almighty God, by bounding and confining the waters to their proper places,
+<note place="margin">Gen. 1.9.</note> hath made the sea a garment, which before was a graue to the earth: So wee by bounding and or<g ref="char:EOLhyphen"/>dering our affections towards the world, and actions in the world, may make it a helpe, which otherwise would be a hinderance to the saluati<g ref="char:EOLhyphen"/>on
+<pb n="25" facs="tcp:25831:17"/>of our soules. For so may a man vse the things of the world, that hee may further his account in the day of the Lord.</p>
+               <p>Make your <hi>bagges,</hi>
+                  <note place="margin">Luk. 12.33.</note> saith our Saui<g ref="char:EOLhyphen"/>our, <hi>that wax not old, a treasure that shall neuer faile in heauen.</hi> To this purpose Saint <hi>Austin</hi> saith, <hi>Fac tra<g ref="char:EOLhyphen"/>iectitium;</hi> meaning that wee should employ these earthly things to the glory of God, and the good of our brethren; that, like prouident Mar<g ref="char:EOLhyphen"/>chants, wee may haue these tempo<g ref="char:EOLhyphen"/>rals returned in heauen, by bill of ex<g ref="char:EOLhyphen"/>change, in things eternall.</p>
+               <trailer>And so much for the first part.</trailer>
+            </div>
+            <div n="2" type="part">
+               <head>The second part. <hi>The excellency of the Soule.</hi>
+               </head>
+               <p>WHen Almighty God had in six dayes made the light, the common diall of the world; the fir<g ref="char:EOLhyphen"/>mament,
+<pb n="26" facs="tcp:25831:18"/>the store-house of his iu<g ref="char:EOLhyphen"/>stice and mercy, the Sea, the worlds ferry: the earth, mans worke-house; the Sunne and Moone, the lights cha<g ref="char:EOLhyphen"/>riots; the fowles, the ayer Chorists, and the beastes mans seruants: yet had hee one more excellent piece of worke to bee made. And that was man, a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> euen an abstract of the whole. To whom hauing fa<g ref="char:EOLhyphen"/>shioned a body, proceeding by de<g ref="char:EOLhyphen"/>grees of perfection, he lastly created a soule.</p>
+               <p>And as the family of <hi>Matri</hi> was singled out of the Tribe of <hi>Beniamin,</hi> and <hi>Saul</hi> out of the family of <hi>Matri,</hi>
+                  <note place="margin">1. Sam. 10.20.</note> being higher then the rest by the shoulders vpward: So is the soule singled out from the other creatures farre surpassing them all in excel<g ref="char:EOLhyphen"/>lency.</p>
+               <p>As I haue briefely displaied the va<g ref="char:EOLhyphen"/>nitie of the world: so must I now call you to viewe the excellency of the Soule; that you may see how
+<pb n="27" facs="tcp:25831:18"/>bad a bargaine it is to winne, if it were possible, the whole world, and to lose the soule.</p>
+               <p>Euery soule is more excellent then the best body that is;
+<note place="margin">
+                     <hi>August de lib. arbitr.</hi> 3.5.</note> So that <hi>anima muscae est sole praestantior.</hi>
+                  <note place="margin">
+                     <hi>Aug. de dunb. anim. cap.</hi> 4.</note> Euen the sensitiue soule of a silly flye is more excellent in nature, though not in vse, then the glorious Sunne. But heere you must not consider the soule de<g ref="char:EOLhyphen"/>flowred, like <hi>Tamar,</hi> by <hi>Adams</hi> transgression:
+<note place="margin">Psal. 45.</note> but like the Kings daughter, <hi>all glorious within</hi> by the worke of Redemption. Of which I may say with Saint <hi>Ierom,</hi>
+                  <note place="margin">Hieron. ad Furiam.</note>
+                  <hi>Quid ani<g ref="char:EOLhyphen"/>ma pulchrius?</hi> what is more beautifull then the soule?</p>
+               <p>First, the excellency of the soule is seene in the worke of creation: for in that all the causes doe concurre for the perfection of it. If you con<g ref="char:EOLhyphen"/>sider the efficient cause,
+<note place="margin">Gen. 1.26.</note> it is <hi>Elohim</hi> the blessed Trinitie, as it were consul<g ref="char:EOLhyphen"/>ting vpon the creation of man.
+<note place="margin">
+                     <hi>T<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rtul advers Marc. lib.</hi> 2.</note> And how? <hi>Non imperiali verbo sed famili<g ref="char:EOLhyphen"/>ari,</hi>
+                  <pb n="28" facs="tcp:25831:19"/>Not by a word of power and pre<g ref="char:EOLhyphen"/>cept, but by a word of fauour and fa<g ref="char:EOLhyphen"/>miliaritie. Not with a <hi>fiat, let it bee made,</hi> as in the other workes, but with a <hi>faciamus, let vs make man.</hi> Here is, saith <hi>Chrysostom,</hi> a great di<g ref="char:EOLhyphen"/>uersity of wordes, to set foorth the wonderfull difference of the workes. Here God the Father, who is the fountaine of the Deitie, consults the Sonne and the holy Ghost; and all of them in an extraordinary manner doe (as it were) lay their handes to the worke. Yea it is further obserua<g ref="char:EOLhyphen"/>ble, that whereas Almighty God hath left to other creatures a certaine power to produce their like, by an ordinary course of propagation, hee hath reserued to himselfe the creati<g ref="char:EOLhyphen"/>on of euery humane soule to the end of the world.</p>
+               <p>If you consider the matter where<g ref="char:EOLhyphen"/>of the soule was made; it was not produced out of the base Chaos, and confused Masse, as the other crea<g ref="char:EOLhyphen"/>tures
+<pb n="29" facs="tcp:25831:19"/>were: but is of a farre more noble and diuine substance. A <hi>quint<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> essentia,</hi> indeede more excellent then the heauens. For though concerning the body <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> God framed it of the earth: yet of the soule it is said <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>hee created it,</hi> that is of nothing, as <hi>Petrus Galatinus</hi> obserues.
+<note place="margin">
+                     <hi>Petr Gal. de arcan. sidei. lib.</hi> 2. <hi>cap.</hi> 8. Gen. 2.7.</note> And the Scripture likewise saith, that <hi>God breathed into man the breath of life.</hi> So that albeit the soule of man be not a part of the Diuine Essence, as the <hi>Maniches</hi> absurdly held: yet is it of an angelicall nature. Therefore I may say with Bernard,
+<note place="margin">
+                     <hi>Bernard. in Cant. ser.</hi> 27.</note>
+                  <hi>Anima non so<g ref="char:EOLhyphen"/>lum caelestis est, sed caelum.</hi> The soule of man is not onely of a heauenly nature, but euen a heauen it selfe, wherein all excellent vertues are fix<g ref="char:EOLhyphen"/>ed, like the Sunne, and Moone, and Starres in the firmament.</p>
+               <p>If you will consider the forme of the soule,
+<note place="margin">Gen. 1.27</note> behold it was made after the image of God.</p>
+               <p>There are two different words in
+<pb n="30" facs="tcp:25831:20"/>the Decree,
+<note place="margin">Gen. 1.26.</note>
+                  <hi>Let vs make man in our image, &amp; according to our likenesse;</hi> and the word <hi>creat</hi> is repeated in the exe<g ref="char:EOLhyphen"/>cution of the Decree; <hi>Thus God cre<g ref="char:EOLhyphen"/>ated man in his Image, in the Image of God created he him.</hi> And both those doubtlesse to note the great resem<g ref="char:EOLhyphen"/>blance the soule of man hath of God. As indeede it hath in respect of Es<g ref="char:EOLhyphen"/>sence, attributes &amp; operation. God is a spirit immortall, inuisible, &amp; so is the Soule. There are three persons in one Diuine Essence; and there are three especiall faculties in one Soule, as St.
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>gust de Trin.</hi>
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>cap.</hi> 11.</note>
+                  <hi>Austin</hi> notes. The Soule likewise resembleth God in respect of <hi>Wise<g ref="char:EOLhyphen"/>dome,</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible: faint" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</note>
+                  <hi>Holinesse, Righteousnesse,</hi> and o<g ref="char:EOLhyphen"/>ther particular attributes of <hi>Grace.</hi> And concerning her operations and actions, shee is in them, though not omnipotent, yet very admirable; as her witty inuention, sound resolu<g ref="char:EOLhyphen"/>tion, swift motion, high and diuine contemplation doe manifest. She be<g ref="char:EOLhyphen"/>ing able in a moment, to mount vp
+<pb n="31" facs="tcp:25831:20"/>to the heauens, to descend downe to hell, and to flye to the vttermost parts of the world.</p>
+               <p>If you consider <hi>the ende</hi> why the Soule was made, it was,
+<note place="margin">1. Cor. 6.19.</note> that it might be the Temple of God, and the ha<g ref="char:EOLhyphen"/>bitation of his blessed Spirit. It is true that the body is, in some sort, the Temple of the holy Ghost; but the Soule in a farre more excellent maner.</p>
+               <p>The body is but like the base Court of <hi>Salomons</hi> Temple, the Soule is like the <hi>Sanctum Sanctorum,</hi> the Holy of Holies, wherein were the Cherubins and the mercy seat: yea therefore was the Soule created, that it might bee the habitation of Gods Spirit in this life, and take vp with him an eternall habitation in the life to come.</p>
+               <p>Secondly, againe, as the excellency of the Soule is set forth in the worke of creation, so is it euident in the worke of Redemption. <hi>Propter hanc
+<pb n="32" facs="tcp:25831:21"/>Deus facit mundum,</hi>
+                  <note place="margin">
+                     <hi>Chry. in Mat. Hom.</hi> 25.</note>
+                  <hi>propter hanc filius Dei venit in mundum.</hi> It was for the Soules sake that God created the world, and it was for the Soule that the Sonne of God came into the world, saith <hi>Chrysostom.</hi>
+                  <note place="margin">
+                     <hi>Lactant. lib.</hi> 3. <hi>cap.</hi> 25. <hi>quod Platonem parvo astuncret.</hi>
+                  </note>
+               </p>
+               <p>
+                  <hi>Seneca</hi> did censure <hi>Aniceris</hi> for that he redeemed <hi>Plato</hi> for eight <hi>Sestertijs,</hi> the same being too meane a ransome for so worthy a man. But this cen<g ref="char:EOLhyphen"/>sure cannot light vpon our Sauiour; who gaue not for the Soule of man the Earth, the Sea, the World, as <hi>Chrysostom</hi> saith:
+<note place="margin">
+                     <hi>Chry. in Ps.</hi> 48.</note> but that which was of infinite value, euen his owne dearest blood. And so saith the A<g ref="char:EOLhyphen"/>postle.
+<note place="margin">1. Pet. 1.18.</note>
+                  <hi>We were not redeemed with cor<g ref="char:EOLhyphen"/>ruptible things, as siluer or gold, but with the precious blood of Christ, as of a lambe without spot.</hi> It was no small matter that caused the Sonne of God to descend from his throne, and dis<g ref="char:EOLhyphen"/>robe himselfe of his glory; yea, to make himselfe of no reputation.
+<note place="margin">Phil. 2.7.</note> It was no base purchase that must cost
+<pb n="33" facs="tcp:25831:21"/>him his dearest heart blood,
+<note place="margin">Act. 20.28.</note> as <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> truely saith;
+<note place="margin">
+                     <hi>Bern. Epla.</hi> 54.</note>
+                  <hi>Magna res est anima quae Christi sanguinae redempta est.</hi> The soule must needes bee excellent that was redeemed with the blood of Christ.</p>
+               <p>Thirdly, againe it doth not a little argue the excellency of the Soule, in that Sathan seekes so earnestly to gaine it.
+<note place="margin">1. Pet. 5.8. Iob. 1.7.</note>
+                  <hi>He goes about like a roaring Lyon, and compasseth the earth too and fro to get one Soule.</hi> For it was not so much the afflicting of <hi>Iobs</hi> body that Sathan stood vpon, but the gayning of his soule, by stirring him vp to impatience,
+<note place="margin">Iob. 2.5.</note> that so hee might <hi>curse God to his face.</hi>
+                  <note place="margin">Gen 14.21.</note> He sayes as the King of Sodom saide to <hi>Abraham,</hi> giue me the soules, and take thou the goods to thy selfe. And indeed they are the soules of Gods dearest ser<g ref="char:EOLhyphen"/>uants which hee especially aymes at; Like the King of <hi>Syria,</hi>
+                  <note place="margin">1. King. 22.31.</note> who saide to his souldiers, <hi>Neither against small or great, but onely against the King of I<g ref="char:EOLhyphen"/>srael.</hi>
+                  <pb n="34" facs="tcp:25831:22"/>A man that sees a mighty ene<g ref="char:EOLhyphen"/>my laying siege to a Citie with great violence to winne it; will quickely coniecture that the same is rich. And may not a man conclude likewise the riches and excellency of the soule, from the fierce and violent assaults that Sathan makes vpon the seruants of God for the winning of it?</p>
+               <p>In a word, the excellency of the soule is euident in the offices of the Angels,
+<note place="margin">Psal. 34.7.</note> who being the <hi>guard</hi> of Gods children, doe pitch their tents about them while they liue, and when they die, are the Lords win<g ref="char:EOLhyphen"/>ged Postes,
+<note place="margin">Luk. 16.22.</note> to carry their soules into <hi>Abrahams</hi> bosom.</p>
+               <p>Thus haue I spoken somewhat of the the excellency of the soule; and many of you, no doubt, who haue with <hi>Socrates</hi> beene much exercised in contemplation of that noble sub<g ref="char:EOLhyphen"/>stance, can say with the Queene of <hi>Sheba</hi> to <hi>Salomon,</hi>
+                  <note place="margin">1. King. 10.7.</note>
+                  <hi>Behold the one halfe hath not beene told me.</hi> Yet euen this
+<pb n="35" facs="tcp:25831:22"/>which hath been said may, I hope, be sufficient to winne this conclusion from any religious heart; <hi>It were pit<g ref="char:EOLhyphen"/>ty to lose the soule for the gaine of the whole world.</hi>
+               </p>
+               <p>There is nothing so deare to a Christian (the glory of God excep<g ref="char:EOLhyphen"/>ted) as his soule.
+<note place="margin">Exod. 32.32.</note> For though <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> desired to bee blotted out of the booke of life for the nation of the <hi>Iewes;</hi> yet was not this simply foorth of his compassion to them, or neg<g ref="char:EOLhyphen"/>lect of himselfe, but with especiall reference to Gods glory, which o<g ref="char:EOLhyphen"/>therwise might haue beene impea<g ref="char:EOLhyphen"/>ched in the failing of his trueth and power, for the performance of his promises. Wee will laugh at little children, to see them part with rich Iewels for childish trifles: and who doth not wonder at the folly of our first parents, that would lose Pa<g ref="char:EOLhyphen"/>radise for an Apple? yet alasse, dai<g ref="char:EOLhyphen"/>ly experience doth proclaime it that many are so childish, to part with
+<pb n="36" facs="tcp:25831:23"/>these rich and precious Iewels their Soules, for base trifles, and so foolish to lose the celestiall Paradise, the Kingdome of Heauen, for earthly vanities. Of whom I may say with <hi>Augustus Caesar,</hi>
+                  <note place="margin">Sueton in vita August.</note> in <hi>Suetonius, They are like a man that fishes with a golden booke, the gaine can neuer recompence the losse.</hi> It is hard to finde a <hi>Curtius</hi> or a <hi>Codrus,</hi> that will voluntarily lay downe his life for large offers. Yea a poore man will not doe it for the whole world. For he knows, when he is gone, al the world is gone with him.</p>
+               <p>If men doe thus value their tempo<g ref="char:EOLhyphen"/>ral liues, Oy, how highly should they prize eternall life?
+<note place="margin">Iob. 2.4.</note>
+                  <hi>If skin for skin, and all that a man hath hee will giue for his life,</hi> then surely skinne for skinne; yea life and all, should hee giue for his Soule. For though it cost him his naturall life for the saluation of his Soule:
+<note place="margin">
+                     <hi>Hilar. in Mat. Can.</hi> 16.</note> yet <hi>O beatum damnum, O iactu<g ref="char:EOLhyphen"/>ra faelix,</hi> saith <hi>Hilary,</hi> O blessed losse, O happy dammage: for behold, it
+<pb n="37" facs="tcp:25831:23"/>shall yeeld a blessed recompence.</p>
+               <p>Againe, the consideration of the Soules excellency should cause vs to mourne, when wee see others runne headlong into perdition. It is lamen<g ref="char:EOLhyphen"/>table to behold: for what trifles ma<g ref="char:EOLhyphen"/>ny sell their Soules, that cost Christ Iesus so much the redeeming. The view of this drew teares from the A<g ref="char:EOLhyphen"/>postles eyes: for saith he,
+<note place="margin">Phil. 3.18.</note> There are many walke, of whom I haue told you, and now tell you weeping; and why? they are enemies to the Crosse of Christ, and their end is damnati<g ref="char:EOLhyphen"/>on. And surely it would make a Chri<g ref="char:EOLhyphen"/>stian heart bleed, to see how people by swearing, lying, whoring, and o<g ref="char:EOLhyphen"/>ther prophane and wicked courses do cast away their soules.</p>
+               <p>The losse of the which is vnualua<g ref="char:EOLhyphen"/>ble, vnrecouerable.
+<note place="margin">
+                     <hi>Grauius est damnum quam vt sit compara<g ref="char:EOLhyphen"/>tio. August. serm. dom in mont. l b.</hi> 2. Mich. 6.7.</note> It is not a <hi>thou<g ref="char:EOLhyphen"/>sand of rammes, or ten thousand riuers of oyle, that can satisfie for the sinne of the Soule.</hi> It is not the whole world; yea were there as many worlds as
+<pb n="38" facs="tcp:25831:24"/>
+                  <hi>Epicurus</hi> dreamed of, they could not counteruaile the losse of the Soule. And therefore our Sauiour de<g ref="char:EOLhyphen"/>maunds in the next Verse, <hi>What shall a man giue in exchange for his Soule?</hi> meaning indeede, that nothing in the world can answere the worth of it. All other losses may bee re<g ref="char:EOLhyphen"/>compenced, or recouered, this by no meanes can.</p>
+               <p>Saint <hi>Chrysostome</hi> hath well obser<g ref="char:EOLhyphen"/>ued with the <hi>Anatomistes,</hi>
+                  <note place="margin">
+                     <hi>Chrys. ad pop. Antioch. hom.</hi> 22.</note>
+                  <hi>Omnia Deus dedit duplicia,</hi> God hath in the frame of the body giuen a man two eyes, two eares, two hands, two feete and the like: that the fayling of one may bee supplied by the other; <hi>Ani<g ref="char:EOLhyphen"/>mam vero Vnam,</hi> hee hath giuen him but one Soule; so that if it bee lost, there is no supply to be had.
+<note place="margin">Dan. 4.</note>
+                  <hi>Nebu<g ref="char:EOLhyphen"/>chadnezar</hi> may lose his Kingdome,
+<note place="margin">Iob. 2.7.42.</note> and it may be restored; <hi>Iob</hi> his health and wealth, and they may bee reco<g ref="char:EOLhyphen"/>uered,
+<note place="margin">Ioh. 11. <hi>Chry. in Plat. Hom.</hi> 56.</note>
+                  <hi>Lazarus</hi> his life and hee may reuiued; But this losse saith <hi>Chryso<g ref="char:EOLhyphen"/>stom,
+<pb n="39" facs="tcp:25831:24"/>Nullo remedio sareiri, nullo pre<g ref="char:EOLhyphen"/>tio redimi potest.</hi> No meanes can re<g ref="char:EOLhyphen"/>paire it, no price can redeeme it; all the world cannot recompence it. When <hi>Phineas</hi> wife heard of the losse of the Arke as we read, 1. <hi>Sam.</hi> 4.19. Shee fell in trauell, and though the woman did seeke to comfort her, by telling her she had borne a sonne: yet shee did not regard it, but named the child <hi>Ichabod</hi> and so expired.
+<note place="margin">That is, the glory is gone.</note> So if a man lose his Soule, all the pleasures and profits in the world can yeelde him small comfort. Hee must needes trauaile in anguish and anxiety of minde, and may say of his Soule, as shee said of her sonne <hi>Ichabod, Where is the glory?</hi> Chryso<g ref="char:EOLhyphen"/>stome hath a notable comparison to this purpose. <hi>If thou shouldest be grie<g ref="char:EOLhyphen"/>uously sicke,</hi> saith hee, <hi>what comfort could it be to thee to see thy seruants merry and iocund?</hi> So if thy Soule be dangerously sicke with sinne, what comfort can it haue, to see thy bo<g ref="char:EOLhyphen"/>dy
+<pb n="40" facs="tcp:25831:25"/>to enioy all the pleasures of the earth?</p>
+               <p>Were the losse of the soule a meere priuation thereof onely; some peraduenture might say desperately, as <hi>Hester</hi> said religiously:
+<note place="margin">Hest. 4.16.</note>
+                  <hi>If I perish, I perish.</hi> But behold an infinite num<g ref="char:EOLhyphen"/>ber of miseries doe accompany the losse of the Soule. With the losse of thy Soule thou loosest thy God, who is <hi>anima animae,</hi>
+                  <note place="margin">
+                     <hi>Bern. serm. de vit. &amp;</hi> 5 <hi>sens.</hi> Psal. 16.11.</note> the Soule of thy Soule; <hi>In whose presence is the ful<g ref="char:EOLhyphen"/>nesse of ioy, and at whose right hand are pleasures for euermore.</hi> Then maiest thou goe mourning all the day long, when it may bee saide vnto thee, as it is in the Psalme,
+<note place="margin">Psal. 42.10.</note>
+                  <hi>Where is now thy God?</hi> Thou losest Christ with all his me<g ref="char:EOLhyphen"/>rits. And if this sunne of righteous<g ref="char:EOLhyphen"/>nesse bee ecclipsed to thee, where is thy comfort? thou loosest the pre<g ref="char:EOLhyphen"/>sence and protection of the holy An<g ref="char:EOLhyphen"/>gels,
+<note place="margin">Heb. 1.14.</note>
+                  <hi>Who are ministring spirits, sent foorth for the good of those that are heyres of saluation.</hi> Thou loosest the
+<pb n="41" facs="tcp:25831:25"/>comfort of a good conscience. which to the godly is a continuall feast. In a word, thou loofest the ioyes of heauen, the blessed society of <hi>innumerable Angels,</hi>
+                  <note place="margin">Heb. 12.</note>
+                  <hi>the spirits of iust and perfect men.</hi> Can the whole world recompense these losses.</p>
+               <p>When Queene <hi>Hester</hi> intreated for her selfe and her people,
+<note place="margin">Hest. 7.4.</note> shee spake thus to <hi>Assuerus, If we had beene sold for bond-men, and bond-women, I had held my tongue, though the enemy could not recompence the Kings dammage;</hi> So may I say if the losse of the Soule caried with it solely the former losses, though the dammage be incompera<g ref="char:EOLhyphen"/>ble, yet were it somewhat tolle<g ref="char:EOLhyphen"/>rable. But now, in the losing of God, of Christ, and the Elect Angels, thou gainest the society of damned spirits: in the losse of heauen, thou gainest hell. In the losse of that cele<g ref="char:EOLhyphen"/>stiall Citie, thou gainest a loathsome prison, that shall neuer bee opened. In the losse of the glory of the lambe,
+<pb n="42" facs="tcp:25831:26"/>thou gainest the fire that can neuer be quenched. In the losse of a com<g ref="char:EOLhyphen"/>fortable conscience, thou gainest a hellish torture that shall neuer be ea<g ref="char:EOLhyphen"/>sed or ended. Therefore I may say with the ancient Father,
+<note place="margin">August.</note>
+                  <hi>Damnatio animae est damnum maximae luctuosum,</hi> The damnation of the Soule is the most lamentable dammage that pos<g ref="char:EOLhyphen"/>sibly can be. God forbid therefore that any man, for winning the whole world, should lose his owne Soule, that is <hi>impar commercium,</hi>
+                  <note place="margin">Cyprian.</note> no valuable commerce, a bad bargaine.</p>
+               <p>Some peraduenture will say vnto me, who doth not preferre his Soule before any thing in the world?
+<note place="margin">1 Sam. 15.14</note> but as <hi>Samuel</hi> saide to <hi>Saul, What meanes then this bleating of sheepe in mine eares, and the lowing of the oxen?</hi> So may I say, what meanes then that curious and fantasticall decking of the body? what meanes those stately buildings, the monuments of pride? what meanes that rising vp earely, and go<g ref="char:EOLhyphen"/>ing
+<pb n="43" facs="tcp:25831:26"/>late to bed, to get the worldly <hi>Mammon,</hi> and all with neglect of the Soule? were men and women halfe so industerous and studious in the seruice of God, the practise of piety, and the duties of Christianitie, as they are for these earthly things, I would then say indeede they prefer<g ref="char:EOLhyphen"/>red their soules before the world. But experience sheweth, that the most are like <hi>Martha,</hi>
+                  <note place="margin">Luke 10.40.</note> carefull and troubled about many things, neg<g ref="char:EOLhyphen"/>lecting the Soule the most preci<g ref="char:EOLhyphen"/>ous of all things. When men can sorrowe for a small losse, and not mourne for a great sinne, where is their care for the Soule? Whereas God hath selected but one day of the seauen for the mart of the Soule, yet how few doe spend that day for the inriching of the same? yea, how many are there that giue God and their Soules scarce the tithe of their owne? and where is then their care of the Soule. As <hi>Dali<g ref="char:EOLhyphen"/>lah</hi>
+                  <pb n="44" facs="tcp:25831:27"/>saide to <hi>Sampson,</hi>
+                  <note place="margin">Iud. 16.15.</note>
+                  <hi>How canst thou say I loue thee; when thy heart is not with mee?</hi> So may I say to a care<g ref="char:EOLhyphen"/>lesse Christian, how dost thou loue thy soule, when thy greatest cost, and care, and paines, are for thy body, and thy outward estate, and ve<g ref="char:EOLhyphen"/>ry litle, if any at all, for the saluation of thy soule?</p>
+               <p>Againe, seeing that the soule is so excellent, wee must haue care to a<g ref="char:EOLhyphen"/>uoide those things that indanger or lose it. There are many difficult problems concerning the soule, as appeares by Saint <hi>Austins</hi> perplex<g ref="char:EOLhyphen"/>ed disputes.
+<note place="margin">August. in vartis locis.</note> But there is none more expedite, and expedient then these: namely, how the Soule may bee lost, and how that it may bee sa<g ref="char:EOLhyphen"/>ued.</p>
+               <p>The things that are dangerous to the Soule are many, but they may bee reduced to two heads. For as there are two wayes of killing the body, so are there two also of
+<pb n="45" facs="tcp:25831:27"/>destroying the Soule.</p>
+               <p>The first is positiue, by offering vi<g ref="char:EOLhyphen"/>olence to it.</p>
+               <p>The second priuatiue, by with-hol<g ref="char:EOLhyphen"/>ding the meanes of preseruation from it.</p>
+               <p>Sinne is that which offers vio<g ref="char:EOLhyphen"/>lence to the Soule,
+<note place="margin">
+                     <hi>Clemeus Alex<g ref="char:EOLhyphen"/>andr. Strom. l.</hi> 3.</note>
+                  <hi>Mors animae peccatum,</hi> saith <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus:</hi> Sinne is the death and de<g ref="char:EOLhyphen"/>struction of the Soule. And so saith the Apostle,
+<note place="margin">Rom. 6. vlt.</note>
+                  <hi>The wages of sinne is death.</hi>
+               </p>
+               <p>Thus many Gentlemen, by their pride, oppression,
+<note place="margin">Esay 3.15.</note> and grinding of the faces of the poore, to enlarge their Possessions, doe lose their soules.</p>
+               <p>Thus too many Church-men,
+<note place="margin">Tit. 1.7.</note> for that <hi>Filthy lucre,</hi> the bargaine of <hi>Simon Magus,</hi>
+                  <note place="margin">Act. 8.18.19. 2. Pet. 2.15.</note> and the wages of <hi>Balaam,</hi> doe lose their soules.</p>
+               <p>Thus many Tradesmen, by dea<g ref="char:EOLhyphen"/>ling deceitfully, dishonestly, vncon<g ref="char:EOLhyphen"/>scionbly, whilest they say, and
+<pb n="46" facs="tcp:25831:28"/>sweare, and lye, doe vent their wares but lose their soules.</p>
+               <p>There is neuer vniust gaine, saith Saint <hi>Austin,</hi>
+                  <note place="margin">
+                     <hi>Aug. de Temp. Serm.</hi> 215.</note> but with iust losse. There is <hi>lucrum in area,</hi> but <hi>damnum in conscientia.</hi> There is gaine in the Coffer, but losse in the Consci<g ref="char:EOLhyphen"/>ence.</p>
+               <p>God forbid,
+<note place="margin">1. King. 21.3.</note> sayd <hi>Naboth, That I should giue the Inheritance of my Fa<g ref="char:EOLhyphen"/>thers.</hi> And so should euery good Christian say, God forbid, that for any worldly gaine I should giue away my soule.</p>
+               <p>It is true,
+<note place="margin">
+                     <hi>Naz Orat.</hi> 36.</note> as <hi>Nazianzen</hi> saith, <hi>Om<g ref="char:EOLhyphen"/>ne peccatum est mors animae:</hi> Euery sinne doth wound and kill the soule. But as it is in wounds some are more mortall then other; so is it in sinnes, some are more dange<g ref="char:EOLhyphen"/>rous and deadly then others.</p>
+               <p>Some with <hi>Ahab,</hi>
+                  <note place="margin">1 King. 21.25.</note> doe euen sell themselues <hi>to worke wicked<g ref="char:EOLhyphen"/>nesse.</hi>
+               </p>
+               <p>Some wretches make fearfull and
+<pb n="47" facs="tcp:25831:28"/>reall compacts with the Diuell, and ingage their soules, as Witches, Coniurers, and the rest of that black guard.</p>
+               <p>Yea, some doe engage both bo<g ref="char:EOLhyphen"/>dy and soule to the Diuell, as Pope <hi>Syluester</hi> the second, who attained the Popedome, by the Diuels helpe,
+<note place="margin">
+                     <hi>Plat. in vita Syluest.</hi> 2.</note>
+                  <hi>Ea lege vt totus illius esse,</hi> Vpon con<g ref="char:EOLhyphen"/>dition, saith <hi>Platina,</hi> that hee should be his both body and soule.</p>
+               <p>Yea some, not onely are prophane and vicious themselues, but cor<g ref="char:EOLhyphen"/>rupt others also, as <hi>Ieroboam,</hi>
+                  <note place="margin">1. Reg. 15 30.</note>
+                  <hi>Who made all Israel to sinne,</hi> and so they lose their soules by a double iniquity, and make Hell their owne by a dou<g ref="char:EOLhyphen"/>ble purchase.</p>
+               <p>Thus are some more desperate sinners then others; yet is there no sinne so small, but like a little leake in a Shippe, if it bee not stopped, it makes somewhat to the Shipwracke of the soule and will in time drowne it in the gulph of eternall perdition,
+<pb n="48" facs="tcp:25831:29"/>and therefore is carefully to bee a<g ref="char:EOLhyphen"/>uovded.</p>
+               <p>But euery one that feares God and loues his owne soule, should espe<g ref="char:EOLhyphen"/>cially pray with the Prophet <hi>Dauid, Lord keepe thy servant from presump<g ref="char:EOLhyphen"/>tuous sinnes:</hi>
+                  <note place="margin">
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> for such indeed are the <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bane of the soule.</p>
+               <p>The second way of losing the soule is, by withholding from it the meanes of presernation. It was a poore equiuoting tricke of the Duke <hi>de Alba,</hi> at the <hi>Finke</hi> before <hi>Harlem,</hi> when hauing promised the Souldi<g ref="char:EOLhyphen"/>ers their liues, he caused them to pe<g ref="char:EOLhyphen"/>rish with hunger, and being challen<g ref="char:EOLhyphen"/>ged for his promise, answered, that he had giuen them assurance of their liues, but not promised that they should haue meate and drinke. And such is the folly of him that talkes of sauing his soule, and yet denies vnto it the meanes of saluation. Therefore the Apostle tolde the Iewes, that <hi>In putting away the Word
+<pb n="49" facs="tcp:25831:29"/>of God they iudged themselues vnwor<g ref="char:EOLhyphen"/>thy of euerlasting life.</hi>
+                  <note place="margin">Acts 13.46.</note>
+               </p>
+               <p>It is not materiall, if the soule bee lost, whether it bee by languishing or violence. When a Christian is negligent in hearing the Word of God, cold and carelesse in prayer, remisse in the actions of mortifica<g ref="char:EOLhyphen"/>tion, &amp;c. his soule must needes lan<g ref="char:EOLhyphen"/>guish.</p>
+               <p>If <hi>Salomon</hi> call it a <hi>Vanity for a man to defraude his Soule of temperall blessings,</hi> I may truely say,
+<note place="margin">Eccles. 4.8.</note> It is a great folly and misery to defraud the Soule of spirituall, and consequently to deprine it of eternall.</p>
+               <p>Againe, forasmuch as the Soule is so excellent, that it stands vs vpon to take the best courses for the pre<g ref="char:EOLhyphen"/>seruation and saluation of it.</p>
+               <p>That Physicall Aphorisme for the body holdes very well in the case of the Soule,
+<note place="margin">Hipocrat.</note>
+                  <hi>Contraria contrarijs curantur.</hi>
+               </p>
+               <p>And <hi>Basill</hi> speakes in this case
+<pb n="50" facs="tcp:25831:30"/>like a Physitian,
+<note place="margin">
+                     <hi>Basil Asset. cap.</hi> 55.</note>
+                  <hi>Evacuetur super<g ref="char:EOLhyphen"/>fluum, subministretur necessarium.</hi> Vice must be abandoned, and grace entertained.</p>
+               <p>As the violence of sinne and the neglect of good meanes are the de<g ref="char:EOLhyphen"/>struction of the soule: so the a<g ref="char:EOLhyphen"/>uoyding of the one, and the vse of the other, must bee the meanes of the sole preseruation of the same.</p>
+               <p>First of all, Sinne must bee expel<g ref="char:EOLhyphen"/>led out of the Soule by vnfained re<g ref="char:EOLhyphen"/>pentance,
+<note place="margin">Gen. 21.</note> as <hi>Ishmael</hi> was cast out of <hi>Abrahams</hi> House.</p>
+               <p>The Soule is the Temple of the Holy Ghost, if therefore sinne haue entered, scourge it out with the rodde of remorse and compun<g ref="char:EOLhyphen"/>ction, as our Sauiour did the buy<g ref="char:EOLhyphen"/>ers and sellers out of the Temple at <hi>Ierusalem.</hi>
+                  <note place="margin">Iohn 2.15.</note>
+               </p>
+               <p>If the Physition perswade vs to take physicke, though it bee yrksome, or warne vs to auoide euill diet, though
+<pb n="51" facs="tcp:25831:30"/>it bee pleasant, wee doe it. <hi>Vincis desiderium ventris ob desiderium sani<g ref="char:EOLhyphen"/>tatis,</hi> saith <hi>Chrysostom?</hi>
+                  <note place="margin">
+                     <hi>Chry. in Mat. Hom.</hi> 31.</note> Doest thou subdue thy appetite for the health of thy body, and wilt thou not maister thy affections for the salua<g ref="char:EOLhyphen"/>tion of thy soule? what greater fol<g ref="char:EOLhyphen"/>ly and misery then this? yea the soo<g ref="char:EOLhyphen"/>ner sinne is expelled and purged, the safer shall thy soule be.</p>
+               <p>Therefore <hi>Salomons</hi> counsell to a surety is good for a sinner;
+<note place="margin">Prou 6.4.</note>
+                  <hi>If thou hast insnared thy soule with sinne, giue no sleepe to thine eyes, nor slumber to thy eye-lids. Deliuer thy soule as a Roe from the hand of the hunter, and as a byrd from the hand of the fowler.</hi> Rest not till thou hast made thy peace with God.</p>
+               <p>Againe, the soule must bee care<g ref="char:EOLhyphen"/>fully fenced against the incursions of sinne: as a man will arme himselfe carefully against a thiefe that will robbe and kill; so must wee doe a<g ref="char:EOLhyphen"/>gainst sinne which will robbe vs
+<pb n="52" facs="tcp:25831:31"/>of grace, and wound soules to death.</p>
+               <p>Wee read in the 2.
+<note place="margin">2. Reg. 11.4.8.</note>
+                  <hi>Kings</hi> 11. That <hi>Iehoiada</hi> caused a strong guard to at<g ref="char:EOLhyphen"/>tend vpon <hi>Ioash</hi> the Kings sonne, and appointed them in their seuerall rankes to compasse him about, that <hi>whosoeuer should come within the ranges should be slaine.</hi>
+               </p>
+               <p>And such must be our guard of the soule, which is like the Kings sonne; wee must fence it on euery side, that sinne may not come neere it, if it approach neere let it die like a tray<g ref="char:EOLhyphen"/>tor.
+<note place="margin">Prou. 4.23.</note> As <hi>Salomon</hi> exhorts, <hi>super omnem custodiam, Keepe thy heart with all dili<g ref="char:EOLhyphen"/>gence:</hi> so must the soule be kept with all care and vigilance.</p>
+               <p>If a man shall see the gates of a Ci<g ref="char:EOLhyphen"/>ty standing open day and night, hee will iudge that either it is poore, or hath carelesse Citizens. And surely it argues either great pouerty of the soule, or extreame neglect of it, when the doores and windowes of it stand
+<pb n="53" facs="tcp:25831:31"/>continually, or commonly open to sinne.</p>
+               <p>Now the senses are <hi>animae foene<g ref="char:EOLhyphen"/>strae,</hi>
+                  <note place="margin">August.</note> the gates and windowes of the soule, we must therefore shut them vp against sinne. Wee must make a couenant with our eyes as <hi>Iob</hi> did:
+<note place="margin">Iob. 31.1.</note> wee must stoppe our eares at <hi>Rabshe<g ref="char:EOLhyphen"/>kaes</hi> blasphemies, as the Iewes did:
+<note place="margin">2. Reg. 18.</note> wee must keepe our mouthes as it were with a bridle, as <hi>Dauid</hi> did.
+<note place="margin">Psal. 39.2. Gen. 6.14.</note> And as <hi>Noah</hi> pitched his Arke with<g ref="char:EOLhyphen"/>in and without against the inundation of the waters; so must we euery way defend our soules against the inunda<g ref="char:EOLhyphen"/>tion of sinne.</p>
+               <p>He that will keepe infection from the heart will vse some good Mithri<g ref="char:EOLhyphen"/>date. Now against sinne, which in<g ref="char:EOLhyphen"/>fects the soule, there is no Mithri<g ref="char:EOLhyphen"/>date like the meditation of Christs death and passion. For it will cause a man to reason thus; was this the e<g ref="char:EOLhyphen"/>nemy, the traytor, that was the
+<pb n="54" facs="tcp:25831:32"/>cause of my Sauiours death, and shall I entertaine it? God for<g ref="char:EOLhyphen"/>bid.</p>
+               <p>The second course to bee taken for the safetie and felicitie of the soule is the entertainment of those Christian duties and graces, where<g ref="char:EOLhyphen"/>with shee is not onely preserued, but also adorned and beautified, and of this wee must also haue especiall care.</p>
+               <p>For if our bodies shall be decked, and our soules deformed, if wee bee rich in wealth, and poore in grace, if wee bee honourable in the eyes of men, and despicable in the sight of God and his holy Angels, then is our condition miserable and lamen<g ref="char:EOLhyphen"/>table.</p>
+               <p>I will briefely propose some espe<g ref="char:EOLhyphen"/>ciall ornaments of the Soule which e<g ref="char:EOLhyphen"/>uery good Christian must be carefull to obtaine and retaine.</p>
+               <p>First, keepe Faith and a good con<g ref="char:EOLhyphen"/>science.
+<pb n="55" facs="tcp:25831:32"/>For Faith is <hi>Regina virtu<g ref="char:EOLhyphen"/>tum,</hi> the Queene of vertues,
+<note place="margin">Chrysost.</note> and the foundation of all religious acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>A good conscience is <hi>anima culci<g ref="char:EOLhyphen"/>tra,</hi> the Soules pillowe,
+<note place="margin">
+                     <hi>Bern. fest omn. anim<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r. serm.</hi> 2.</note> whereupon she doth repose her selfe most sweet<g ref="char:EOLhyphen"/>ly and securedly, so saith the Apo<g ref="char:EOLhyphen"/>stle, <hi>This is our reioycing,</hi>
+                  <note place="margin">2. Cor. 1.12.</note>
+                  <hi>the testimo<g ref="char:EOLhyphen"/>ny of a good conscience.</hi>
+               </p>
+               <p>Bee conuersant in the word of God; for it is <hi>pabulum animae,</hi>
+                  <note place="margin">
+                     <hi>Lactant. Lectio fortem reddit animam. Chrysan Gen. Hom.</hi> 29.</note> the sincere milke, and the bread of Life wherewith the soule is nourished and strengthened.</p>
+               <p>Tender daily and duly the ho<g ref="char:EOLhyphen"/>mage of obedience to God, in so<g ref="char:EOLhyphen"/>brietie, righteousnesse, and godli<g ref="char:EOLhyphen"/>nesse;
+<note place="margin">Tit. 2.<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. <hi>Chrys. in psal.</hi> 49.</note> for <hi>pulchritudo animae pendet ab obedientia.</hi> Obedience is much to the beautifying of the soule.</p>
+               <p>Be feruent and deuout in prayer:
+<note place="margin">Chry. de anima.</note> for prayer is the same to thy soule, that the soule is to the body, euen the
+<pb n="56" facs="tcp:25831:33"/>life of the soule,
+<note place="margin">
+                     <hi>August de temp. Serm.</hi> 2<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.</note>
+                  <hi>Ascendit oratio, de<g ref="char:EOLhyphen"/>scendit Dei miseratio,</hi> When our pray<g ref="char:EOLhyphen"/>ers ascend vp to heauen, Gods mer<g ref="char:EOLhyphen"/>cies descend downe vppon our soules, to our vnspeakeable com<g ref="char:EOLhyphen"/>fort.</p>
+               <p>Be frequent in receiuing the Sa<g ref="char:EOLhyphen"/>crament; for it is the soules <hi>viaticum,</hi> as the ancients call it. By it our soules are nourished, that wee may passe thorow this our pilgrimage confi<g ref="char:EOLhyphen"/>dently and comfortably to the king<g ref="char:EOLhyphen"/>dome of heauen.</p>
+               <p>Be often sequestred from earthly affaires, for holy and heauenly medi<g ref="char:EOLhyphen"/>tations.</p>
+               <p>The fowle that flyes low is quick<g ref="char:EOLhyphen"/>ly taken,
+<note place="margin">
+                     <hi>Ambros. de bo<g ref="char:EOLhyphen"/>no morti<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> cap.</hi> 5.</note> saith Saint <hi>Ambrose,</hi> but that which soares aloft <hi>Nec laqueis capitur, nec visco fallitur,</hi> is neither intrapped in the snare, nor intangled in the limebush: So the soule, whilest it is houering about these earthly vani<g ref="char:EOLhyphen"/>ties, is easily and quickly insnared by
+<pb n="57" facs="tcp:25831:33"/>Sathan; But when it soares aloft in diuine meditations, is seldome taken in the snares of temptation.</p>
+               <p>Loe these are <hi>ornamenta,</hi>
+                  <note place="margin">
+                     <hi>Studium preta<g ref="char:EOLhyphen"/>tis diuinis co<g ref="char:EOLhyphen"/>gitationibus ani<g ref="char:EOLhyphen"/>mam pascit. Basil. Epla.</hi> 1.</note> and <hi>nu<g ref="char:EOLhyphen"/>trimenta,</hi> both the nourishment and ornaments of the soule.</p>
+               <p>Lastly, behold heere is singular comfort and encouragement for e<g ref="char:EOLhyphen"/>uery faithfull Minister of Christ.</p>
+               <p>Great is the honour of our cal<g ref="char:EOLhyphen"/>ling, in regard it is conuersant about such a noble subiect.</p>
+               <p>What more honourable and com<g ref="char:EOLhyphen"/>fortable then the winning of soules vnto God: Let him knowe (saith Saint <hi>Iames</hi>) <hi>that he which conuerteth a sinner from the error of his way,</hi>
+                  <note place="margin">Iam. 5.20.</note>
+                  <hi>shall saue a soule.</hi>
+               </p>
+               <p>Let him knowe saith hee, as spea<g ref="char:EOLhyphen"/>king of a matter very remarkeable; and reason, for the sauing of a Soule is a more glorious worke then the conquest of all the whole world.</p>
+               <pb n="58" facs="tcp:25831:34"/>
+               <p> It is a battery in the Kingdome of Sathan, and the enlargement of the Kingdome of Christ.</p>
+               <p>It is the happinesse of the conuert, who is rescued from the iawes of Hell, and the pawes of the roaring Lyon.</p>
+               <p>It ads to the glory of the conuer<g ref="char:EOLhyphen"/>ter:
+<note place="margin">Dan. 13.3.</note>
+                  <hi>For those that turne many vnto righteousnesse shall shine as the Starres for euer and euer.</hi>
+               </p>
+               <p>Well might Saint <hi>Paul</hi> therefore call it <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">1. Tim. 3.1.</note>
+                  <hi>a worthy worke.</hi> Yet must we remember that as it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, so is also <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as it is worthy, so is it waighty; <hi>They watch for your soules</hi> (saith the Apostle) <hi>as those that must giue an account.</hi>
+                  <note place="margin">Heb. 13.17.</note>
+               </p>
+               <p>Our charge is strickt like that in the first of the Kings,
+<note place="margin">1. King. 20.39.</note>
+                  <hi>keepe this man, if hee be l<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st,</hi>
+                  <note place="margin">Ezech. 3.18.</note>
+                  <hi>then shall thy life be for his life.</hi> For so the Prophet <hi>Ezechiel</hi> tels vs, that if our people perish through our negligence, <hi>their blood shall bee
+<pb n="59" facs="tcp:25831:34"/>required at our hands.</hi> When our Sa<g ref="char:EOLhyphen"/>uiour Christ saw people without pa<g ref="char:EOLhyphen"/>stors, <hi>as sheepe hauing no shepheard,</hi>
+                  <note place="margin">Mat. 9.<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> he had compassion vpon them.</p>
+               <p>And no matuell, for what man, (except hee haue shut vp the bowels of compassion) can chuse but grieue, to see some goodly shippe fraught with rich Iewels, and many passingers ready to sinke through negligence of the Mariners.</p>
+               <p>If so, who can without sorrow of heart, behold the shippes: yea the fleete of diuers congregations ready to perish through neglect of igno<g ref="char:EOLhyphen"/>rant and negligent Pilots? The consideration of which may stirre vp euery conscionable Minister to be faithfull and carefull in the worke of the Lord:
+<note place="margin">1. Thes. 5.12.</note> and may moue the peo<g ref="char:EOLhyphen"/>ple to honour, encourge and obey those that so watch <hi>for their soules;</hi>
+                  <note place="margin">Heb. 13.17.</note> to yeelde them the assistance of their prayers; yea,
+<note place="margin">Ephes. 6.18.</note> to <hi>pray the Lord
+<pb n="60" facs="tcp:25831:35"/>of the haruest that he would send forth la<g ref="char:EOLhyphen"/>bourers into his haruest.</hi>
+               </p>
+               <p>That so they may make worke for the great haruest,
+<note place="margin">Mat. 9.38.</note> when the An<g ref="char:EOLhyphen"/>gels shall bee the Lords haruest<g ref="char:EOLhyphen"/>men,
+<note place="margin">Mat. 24. Mat. 3.</note> to carry the soules of his ser<g ref="char:EOLhyphen"/>uants, like good wheat into his hea<g ref="char:EOLhyphen"/>uenly garner.</p>
+               <p>When <hi>Iacob</hi> had a long time ta<g ref="char:EOLhyphen"/>ken paynes in <hi>Labans</hi> seruice,
+<note place="margin">Conclus. Gen 31.</note> hee pleaded at last the equitie of labou<g ref="char:EOLhyphen"/>ring for himselfe. So is it reasona<g ref="char:EOLhyphen"/>ble, that hee which hitherto hath beene addicted to the world, should now at last deuote himselfe and his best endeauours to the good of his Soule.</p>
+               <p>And this indeede is the summe of all that I at this time haue laboured for: namely, that you and I, and e<g ref="char:EOLhyphen"/>uery one of vs, may hereafter haue more care of our soules, then euer we had. Which that wee may, that blessed Trinitie who created them,
+<pb n="61" facs="tcp:25831:35"/>that blessed Sauiour who redeemed them, and that biessed Spirit who doeth sanctifie them, grant to which blessed Trinity all honour, and glo<g ref="char:EOLhyphen"/>ry, dominion and Maiesty bee rendred from henceforth and for euer, Amen, Amen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
